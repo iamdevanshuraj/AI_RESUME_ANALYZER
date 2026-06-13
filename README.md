@@ -11,6 +11,16 @@ An AI-powered Resume Analyzer built using Python, Streamlit, and Groq API.
 - Strength Analysis
 - Improvement Suggestions
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Analysis Result
+
+![Analysis Result](screenshots/result.png)
+
 ## Tech Stack
 
 - Python

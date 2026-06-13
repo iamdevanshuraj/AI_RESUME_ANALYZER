@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 st.title("AI RESUME ANALYZER")
 client = Groq(
-   api_key=os.getenv"GROQ_API_KEY"
+   api_key=os.getenv("GROQ_API_KEY")
 )
 uploaded_file = st.file_uploader(
     "Upload Resume",
